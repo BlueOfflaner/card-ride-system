@@ -1,0 +1,3 @@
+1 small zbr 6 11 2
+2 big lhc 10 13 10
+3 middle www 7 19 5
