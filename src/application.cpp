@@ -213,6 +213,7 @@ void cardManagement()
     if(opt == 1)
     {
         p->login();
+        //这里忘了把新卡存到vector里面了
     }
     else if(opt == 2)
     {
